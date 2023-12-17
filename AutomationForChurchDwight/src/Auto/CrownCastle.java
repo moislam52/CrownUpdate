@@ -80,11 +80,7 @@ public class CrownCastle {
 
       }
 
-        // Step 3d: Confirm that the game has been restarted successfully
-       // WebElement restartButton = driver.findElement(By.id("restart-button")); // Replace with actual restart button ID
-       // restartButton.click();
-        
-        // Close the WebDriver
+       
         //driver.quit();
     }
 
